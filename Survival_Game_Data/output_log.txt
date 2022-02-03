@@ -1,0 +1,45 @@
+Initialize engine version: 5.0.0f4 (5b98b70ebeb9)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon R7 200 Series (ID=0x6610)
+    Vendor:   ATI
+    VRAM:     2028 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: H:\My Folder and Files\Game Tutorials\Survival Game\Survival_Game_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading H:\My Folder and Files\Game Tutorials\Survival Game\Survival_Game_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: H:\My Folder and Files\Game Tutorials\Survival Game\Survival_Game_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading H:\My Folder and Files\Game Tutorials\Survival Game\Survival_Game_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: H:\My Folder and Files\Game Tutorials\Survival Game\Survival_Game_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading H:\My Folder and Files\Game Tutorials\Survival Game\Survival_Game_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.248 seconds
+desktop: 1920x1080 59Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: H:\My Folder and Files\Game Tutorials\Survival Game\Survival_Game_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: H:\My Folder and Files\Game Tutorials\Survival Game\Survival_Game_Data\Managed\System.dll (this message is harmless)
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 21.210897 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 2142.
+Total: 5.025897 ms (FindLiveObjects: 0.207535 ms CreateObjectMapping: 0.058710 ms MarkObjects: 4.719715 ms  DeleteObjects: 0.008533 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.415880 ms
+
+Unloading 81 unused Assets to reduce memory usage. Loaded Objects now: 164.
+Total: 0.281264 ms (FindLiveObjects: 0.017067 ms CreateObjectMapping: 0.010922 ms MarkObjects: 0.155992 ms  DeleteObjects: 0.096258 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.798054 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 2142.
+Total: 0.579937 ms (FindLiveObjects: 0.194564 ms CreateObjectMapping: 0.026624 ms MarkObjects: 0.348167 ms  DeleteObjects: 0.009557 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.548661 ms
+
+Unloading 81 unused Assets to reduce memory usage. Loaded Objects now: 164.
+Total: 0.288774 ms (FindLiveObjects: 0.016725 ms CreateObjectMapping: 0.010922 ms MarkObjects: 0.163160 ms  DeleteObjects: 0.096940 ms)
+
